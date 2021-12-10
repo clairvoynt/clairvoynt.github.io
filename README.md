@@ -4,6 +4,8 @@
 <!DOCTYPE html>
 <html>
 <body>
+body {
+   background-color: lightblue;
 
 <h1>Overview</h1>
    Below are four links to different samples that provide small insights about me. 
@@ -18,5 +20,6 @@
 
 [Image Gallery](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Image%20Gallery)</p>
 
-  </body>
+   </body>
+   }
   </html>
