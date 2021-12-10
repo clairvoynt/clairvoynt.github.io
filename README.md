@@ -7,6 +7,8 @@
 
 <h1>Overview</h1>
 <p>
+  Below are four links to differnt samples that provide small insights into me. 
+  While the information is limited, I feel that should suffice to shed a little light on myself.
 
 [Hobbies](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Hobbies)
 
