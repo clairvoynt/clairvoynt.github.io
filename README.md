@@ -1,2 +1,2 @@
 # clairvoynt.github.io
-~ $ git clone https://github.com/username/username.github.io
+~ $ git clone https://github.com/clairvoynt/clairvoynt.github.io
