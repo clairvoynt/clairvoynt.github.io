@@ -1,1 +1,61 @@
+# **My first block of code ever.**
 
+print('Hello World')
+print ('This is my very first Python program')
+
+# H1 **My favorite coding work.**
+
+from math import pi
+
+def user_radius_input():
+    while True:
+        try:
+            radius = float(input ("Please enter a radius: ") )
+            if radius <= 0: 
+                print("Please enter a number greater than zero.")
+                continue
+            elif radius > 0:
+                break
+        except ValueError:
+            print ("Input must be a number. Please reinput.")
+            continue
+    return radius
+
+def user_height_input():
+    while True:
+        try:
+            height = float(input ("Please enter a height: ") )
+            if height <= 0: 
+                print("Please enter a number greater than zero.")
+                continue
+            elif height > 0:
+                break
+        except ValueError:
+            print ("Input must be a number. Please reinput.")
+            continue
+    return height
+
+def calculate_cylinder_volume(radius, height):
+    volume= pi * radius**2 * height
+    return volume
+
+def generate_report(radius, height, volume):
+    print ("A cylinder with radius",radius,"and height", height,"has a volume of",volume)
+
+
+def main():
+    while True:
+        print ("By Dylan Curtiss")
+        radius = user_radius_input()
+        height = user_height_input()
+        volume = calculate_cylinder_volume(radius, height)
+        generate_report(radius, height, volume)
+        print("Do you want to input again? enter (y/n)")
+        loop = input()
+        if loop == "y":
+            continue
+        if loop == "yes":
+            continue
+        else:
+            break
+main()
