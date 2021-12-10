@@ -15,3 +15,6 @@
 [Code](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Code)
 
 [Image Gallery](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Image%20Gallery)</p>
+
+  </body>
+  </html>
