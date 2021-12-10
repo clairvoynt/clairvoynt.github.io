@@ -6,7 +6,7 @@
 <body>
 
 <h1>Overview</h1>
-   Below are four links to differnt samples that provide small insights into me. 
+   Below are four links to different samples that provide small insights about me. 
   While the information is limited, I feel that should suffice to shed a little light on myself.
 <p>
 
