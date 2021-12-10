@@ -6,7 +6,8 @@
 <body>
 
 <h1>Overview</h1>
-<p>[Hobbies](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Hobbies)
+<p>
+[Hobbies](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Hobbies)
 
 [Social Medias](https://github.com/clairvoynt/clairvoynt.github.io/blob/main/Social%20Medias)
 
