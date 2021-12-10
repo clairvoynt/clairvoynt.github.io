@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <html>
-<body style="background-color: purple;">
+<body style="background-color: powderblue;">
 
 <h1>Overview</h1>
    Below are four links to different samples that provide small insights about me. 
